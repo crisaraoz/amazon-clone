@@ -1,5 +1,5 @@
-# E-shop made with React Components and Material UI
+# E-shop made with React Components and Material UI 
 
-Status: On Going - In progress
+Status: In progress
 E-shopping Cart to be included // Current Commit
 
