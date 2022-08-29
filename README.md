@@ -1,5 +1,5 @@
 # E-shop made with React Components 
 
 Status: In progress
-Current component: E-shopping Cart to be included.
+Current component: E-shopping Cart to be included
 
